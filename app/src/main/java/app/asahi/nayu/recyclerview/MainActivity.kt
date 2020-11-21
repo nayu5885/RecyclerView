@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {
         MemoData(R.drawable.images,"いつぞやの","人生の迷路"),
         MemoData(R.drawable.itigo,"付け忘れたやつ","かわいそうに"),
         MemoData(R.drawable.naze,"誰よww","なんだお前！w"),
-        MemoData(R.drawable.scr,"飽きた","そろそろめんどい")
+        MemoData(R.drawable.scr,"飽きた","そろそろめんどい ")
 
     )
 
